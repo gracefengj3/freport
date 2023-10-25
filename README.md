@@ -10,18 +10,18 @@
 
  ```bash
 
- 2023-10-25 - 15:52:48 UTC
+ 2023-10-25 - 16:10:23 UTC
 
  ```
 
 
  ```bash
 
- Host Name : fv-az673-898
+ Host Name : fv-az189-75
 
- platform  : Linux-6.2.0-1014-azure-x86_64-with-glibc2.35
+ platform  : Linux-6.2.0-1015-azure-x86_64-with-glibc2.35
 
- Ip Local  : 10.1.102.23
+ Ip Local  : 10.1.58.0
 
  ```
 
